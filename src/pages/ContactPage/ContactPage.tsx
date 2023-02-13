@@ -23,7 +23,7 @@ const ContactPage: FC<Props> = () => {
                     Interested in working together or have any questions?<br/>
                     Contact me using the form or email me at
                 </p>
-                <Link to="/contact" className={classes.email}>dawid.a@mail.com</Link>
+                <Link to="/contact" className={classes.email}>AshleyY1065@gmail.com</Link>
             </div>
             <div className={classes.contactRightFormContainer}>
                 <ContactForm />
