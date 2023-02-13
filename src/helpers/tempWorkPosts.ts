@@ -1,9 +1,9 @@
 import IWorkPost from "../models/IWorkPost";
 import NucampImage from '../assets/work/Nucamp.png';
-import PinataPowerImage from '../assets/work/pinatapower.png';
-import InstagramDBCloneImage from '../assets/work/instagramdbclone.png';
-import GoogleMapsImage from '../assets/work/googlemaps.jpg';
-import MosaicStudioScreenImage from '../assets/work/mosaicstudioscreen.png';
+import PinataPowerImage from '../assets/work/PinataPower.png';
+import InstagramDBCloneImage from '../assets/work/InstagramDbClone.png';
+import GoogleMapsImage from '../assets/work/GoogleMaps.jpg';
+import MosaicStudioScreenImage from '../assets/work/MosaicStudioScreen.png';
 
 export const tempWorkPosts: IWorkPost[] = [
     {
