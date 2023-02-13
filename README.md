@@ -3,9 +3,6 @@
 Hi there! 👋
 
 This is the source code of a simple portfolio website using React.
-You can find a video of me building it on [YouTube](https://youtu.be/f6Imh_Kr5vk).
-
-You are free to use the code for your own projects however you like.
 
 ## Vite
 
